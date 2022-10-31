@@ -3,7 +3,7 @@
 Aurco markers detection pics:
 ![image](https://user-images.githubusercontent.com/91476640/199065641-aeff7251-70ea-4b76-8498-39fcaf2f8d90.png)
 
-Camera calibration is done with images which are in file
+
 
 
 Aurco Markers pose display pics:
